@@ -14,6 +14,6 @@ Pod::Spec.new do |s|
   s.source_files = "ios/*.{h,m}"
   s.platform = :ios, "8.0"
 
-  s.dependency "Amplitude-iOS", "~> 3.10.1"
+  s.dependency "Amplitude-iOS", "~> 3.11.1"
   s.dependency "React"
 end
